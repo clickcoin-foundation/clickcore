@@ -60,7 +60,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noise23/clickcore.git"
+    "url": "https://github.com/clickcoin-foundation/clickcore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -119,9 +119,9 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/noise23/clickcore/issues"
+    "url": "https://github.com/clickcoin-foundation/clickcore/issues"
   },
-  "homepage": "https://github.com/noise23/clickcore",
+  "homepage": "https://github.com/clickcoin-foundation/clickcore",
   "_id": "clickcore@0.1.39",
   "devDependencies": {
     "browserify": "=3.40.0",

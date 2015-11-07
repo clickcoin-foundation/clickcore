@@ -2,7 +2,7 @@
   "name": "clickcore",
   "main": "browser/bundle.js",
   "version": "0.1.36",
-  "homepage": "https://github.com/noise23/clickcore",
+  "homepage": "https://github.com/clickcoin-foundation/clickcore",
   "authors": [
     "Larry Ren (<ren@reddcoin.com>)"
   ],
