@@ -1,0 +1,28 @@
+{
+  "name": "clickcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/noise23/clickcore",
+  "authors": [
+    "Larry Ren (<ren@reddcoin.com>)"
+  ],
+  "description": "ClickCoin Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "clickcoin",
+    "click",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
